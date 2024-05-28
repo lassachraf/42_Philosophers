@@ -67,3 +67,8 @@ make bonus
    * Using mutexes and semaphores to handle shared resources.
    * Optimizing C code for performance, which is critical for real-time systems.
 
+
+# Project score:
+
+![](https://blog.kakaocdn.net/dn/ccOHbk/btrmXuGtLet/JzUaL05K8W5AgwZqFkKjC0/img.png)
+
