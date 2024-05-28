@@ -14,14 +14,16 @@ The project aims to train students in multi-threading and multi-process programm
 ### Key Concepts:
 
   **Dining Philosophers Problem:**
-      * Philosophers sit at a circular table with a bowl of spaghetti and a fork between each pair.
-      * Each philosopher must alternate between eating, thinking, and sleeping.
-      * To eat, a philosopher needs two forks, which introduces a challenge to avoid deadlock and 
+  
+   * Philosophers sit at a circular table with a bowl of spaghetti and a fork between each pair.
+   * Each philosopher must alternate between eating, thinking, and sleeping.
+   * To eat, a philosopher needs two forks, which introduces a challenge to avoid deadlock and 
       ensure no philosopher starves.
 
   **Project Variants:**
-      * **Mandatory part :** Uses multi-threading with mutexes.
-      * **Bonus part :** Uses multi-processing with semaphores.
+      
+   * **Mandatory part :** Uses multi-threading with mutexes.
+   * **Bonus part     :** Uses multi-processing with semaphores.
 
 ### Rules and Requirements:
 
